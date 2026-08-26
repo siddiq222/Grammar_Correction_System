@@ -1,0 +1,17 @@
+# Model weights (too large for GitHub — hosted externally, see README)
+*.keras
+phase6_t5_finetuned/
+phase6b_t5base_finetuned/
+
+# Data files
+Grammar Correction.csv
+vocab_and_data.pkl
+
+# Python environment
+venv/
+__pycache__/
+*.pyc
+
+# OS files
+.DS_Store
+Thumbs.db
